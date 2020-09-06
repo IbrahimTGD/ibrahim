@@ -4,5 +4,5 @@ font-family: 'VT323', monospace;
 
 /* Dotted red border */
 hr.red {
-  border-top: 1px dotted red;
+  border-top: 5px dotted blue;
 }
