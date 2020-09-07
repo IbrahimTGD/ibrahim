@@ -26,23 +26,23 @@ font-family: 'VT323', monospace;
 
 p {
 color: #ffffff;
-float:middle;
+float:right;
 font-size: 30px;
 }
 
 h1 {
   color: #ffffff;
-        float:middle;
+        float:right;
 }
 
 h2 {
   color: #ffffff;
-        float:middle;
+        float:right;
 }
 
 h3 {
 color: #ffffff ;
-      float:middle;
+      float:right;
 }
 
 .chip {
